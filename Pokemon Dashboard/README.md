@@ -14,6 +14,30 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
 👉 If you have seen the Pokemon cartoon each trainer has a Pokedex with them, here we have tried to make a similar kind of Pokedex but its a virtual one. 😂😂
 
 ### Tools used:
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/> 
+    </a>
+    <br/>POWER BI
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img loading="lazy" src="https://webobjects2.cdw.com/is/image/CDW/5300125?$product-main$" alt="excel" width="40" height="40"/>
+    </a>
+    <br/> EXCEL
+   </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://data-ox.com/wp-content/uploads/2020/09/webscrapper.jpg" alt="web-scrapper" width="100" height="60"/>
+      </a>
+      <br> WEB SCRAPPER
+    </td>
+  </tr>
+</table>
+
 <p>
   <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://webobjects2.cdw.com/is/image/CDW/5300125?$product-main$" alt="excel" width="40" height="40"/> </a>
