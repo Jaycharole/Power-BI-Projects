@@ -13,7 +13,7 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
 
 👉 If you have seen the Pokemon cartoon each trainer has a Pokedex with them, here we have tried to make a similar kind of Pokedex but its a virtual one. 😂😂
 
-### Tools used:
+# Tools used:
 
 <table align="center">
   <tr>
