@@ -5,13 +5,13 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
 
 # Key features about the project 🔥
 
-- 👉 There are some pokemon dashboard projects availabe on internet but the project developed here will not be found anywhere it is a unique one.
+👉 There are some pokemon dashboard projects availabe on internet but the project developed here will not be found anywhere it is a unique one.
 
-- 👉 The evolution page of the project is bit different.
+👉 The evolution page of the project is bit different.
 
-- 👉 The dataset which is been used in the project is not availabe anywhere on internet. The dataset and images of the dataset are made by web scrapping through various websites.
+👉 The dataset which is been used in the project is not availabe anywhere on internet. The dataset and images of the dataset are made by web scrapping through various websites.
 
-- 👉 If you have seen the Pokemon cartoon each trainer has a Pokedex with them, here we have tried to make a similar kind of Pokedex but its a virtual one. 😂😂
+👉 If you have seen the Pokemon cartoon each trainer has a Pokedex with them, here we have tried to make a similar kind of Pokedex but its a virtual one. 😂😂
 
 ### Tools used:
 <p>
@@ -22,10 +22,10 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
 
 # About the dataset 📝
 
-- 👉 **Pokemon Details**: The first dataset used is the Pokemon details which contains various details like what are their types, species, growth, abilities, their attack score, HP score, defence score, ability towards different types of pokemon, *(most important)* their images etc.
+👉 **Pokemon Details**: The first dataset used is the Pokemon details which contains various details like what are their types, species, growth, abilities, their attack score, HP score, defence score, ability towards different types of pokemon, *(most important)* their images etc.
 
-- 👉 **Pokemon Evolution Dataset**: The dataset has the images of Pokemon evolution at level 1, level 2 followed by level 3.
+👉 **Pokemon Evolution Dataset**: The dataset has the images of Pokemon evolution at level 1, level 2 followed by level 3.
 
-- 👉 **Pokemon Description Dataset:** The dataset which has the description about the various Pokemons.
+👉 **Pokemon Description Dataset:** The dataset which has the description about the various Pokemons.
 
-- 👉 **Pokemon types images Dataset**: The dataset contains various images of the types of Pokemons example: water, fire, grass, electric, etc.
+👉 **Pokemon types images Dataset**: The dataset contains various images of the types of Pokemons example: water, fire, grass, electric, etc.
