@@ -41,39 +41,39 @@ You can download the dataset by clicking on the link: <a href="https://drive.goo
 
 ### Insights to be found out:
 
-- 💥 What are total number of jobs available?
+💥 What are total number of jobs available?
 
-- 💥 What are total number of companies providing jobs?
+💥 What are total number of companies providing jobs?
 
-- 💥 What are total domains for various jobs?
+💥 What are total domains for various jobs?
 
-- 💥 What are the various career level and its distribution across various jobs?\
+💥 What are the various career level and its distribution across various jobs?\
 
-- 💥 What are distribution of jobs across various analytics field?
+💥 What are distribution of jobs across various analytics field?
 
-- 💥 Which company is providing highest number of jobs?
+💥 Which company is providing highest number of jobs?
 
-- 💥 Which domain has highest number of jobs?
+💥 Which domain has highest number of jobs?
 
-- 💥 What are minimum required qualification for job roles?
+💥 What are minimum required qualification for job roles?
 
-- 💥 What are various job types for various titles?
+💥 What are various job types for various titles?
 
-- 💥 Which are TOP 5 companies with highest jobs?
+💥 Which are TOP 5 companies with highest jobs?
 
 ### Key insights:
 
-- ✨ There are **1979 jobs** available.
+✨ There are **1979 jobs** available.
 
-- ✨ **719 Companies** are providing jobs.
+✨ **719 Companies** are providing jobs.
 
-- ✨ There are round **50 diffeent domains** in which jobs are provided.
+✨ There are round **50 diffeent domains** in which jobs are provided.
 
-- ✨ **HKT** and **Michael Page** are the companies which has highest job openings.
+✨ **HKT** and **Michael Page** are the companies which has highest job openings.
 
-- ✨ **Human Resources Management/COnsulting** is the domain which has highest number of jobs.
+✨ **Human Resources Management/COnsulting** is the domain which has highest number of jobs.
 
-***... and many more inside the report ! ***
+**... and many more inside the report ! **
 
 ---
 
